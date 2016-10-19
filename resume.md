@@ -2,7 +2,7 @@
 
 **Localização:** Jundiaí - Brasil
 
-**Cel:** +55 (11) 99888-1910
+**Celular:** +55 (11) 99888-1910
 
 **E-mail:** bruno94@outlook.com
 
