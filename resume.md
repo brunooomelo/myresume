@@ -28,7 +28,7 @@ Sou um estudante de Engenharia da Computação e um amante de tecnologia e afins
 * Ruby
 * Linux (Ubuntu)
 
-## Experiencia Profissional
+## Experiência Profissional
 
 **Estagiario de Suporte - HelpDesk** - SIFCO S/A - 2014
 > Atendimento ao usuário, Formatação de computadores, Instalação e manutenção de computadores e rede.
