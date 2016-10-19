@@ -4,11 +4,11 @@
 
 **Cel:** +55 (11) 99888-1910
 
-**E-mail:**bruno94@outlook.com
+**E-mail:** bruno94@outlook.com
 
-**GitHub:**[brunooomelo](www.github.com/brunooomelo)
+**GitHub:** [brunooomelo](www.github.com/brunooomelo)
 
-**Skype:**jinxbob1337
+**Skype:** jinxbob1337
 
 ## Sobre mim
 Sou um estudante de Engenharia da Computação e um amante de tecnologia e afins. Como foco busco bastante melhorar minhas habilidades e ter as melhores praticas, e sempre buscando aprender habilidades novas.
