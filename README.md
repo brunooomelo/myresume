@@ -1,18 +1,17 @@
 # Bruno Xavier de Melo
 
-**Localização:** Jundiaí - Brasil
+**Location:** Jundiaí - Brazil
 
-**Celular:** +55 (11) 99888-1910
+**Cell Phone:** +55 (11) 99888-1910
 
-**E-mail:** bruno94@outlook.com
+**Mail:** bruno94@outlook.com
 
 **GitHub:** [brunooomelo](www.github.com/brunooomelo)
 
 **Skype:** jinxbob1337
 
-## Sobre mim
-Sou um estudante de Engenharia da Computação e um amante de tecnologia e afins. Como foco busco bastante melhorar minhas habilidades e ter as melhores praticas, e sempre buscando aprender habilidades novas.
-
+## About me
+I'm a student Computer Engineering and a lover of technology. Looking pretty improve my skills and have a best practices, and always seeking to learn new skills.
 ## Habilidades
 
 * HTML
@@ -21,32 +20,32 @@ Sou um estudante de Engenharia da Computação e um amante de tecnologia e afins
 * Css Framework (Bootstrap)
 * Javascript
 * jQuery
-* Automatizadores (Gulp, Npm)
+* Automation (Gulp, Npm)
 * Git
 * MySQL
 * PHP
 * Ruby
 * Linux (Ubuntu)
 
-## Experiência Profissional
+## Professional Experience
 
-**Estagiario de Suporte - HelpDesk** - SIFCO S/A - 2014
-> Atendimento ao usuário, Formatação de computadores, Instalação e manutenção de computadores e rede.
+**Trainee Support - HelpDesk** - SIFCO S/A - 2014
+> Service to users, computers Formatting, Installation and maintenance of computers and network.
 
 **Efetivo em Auxiliar Administrativo** - Ferperez - 2012
-> Emissão de notas fiscais, Atendimento ao cliente, Controle de estoque, Cobrança, Elaboração de relatórios, Planilhas e acompanhamento de todos os processos administrativo.
+> Issuing invoices, Customer Service, Inventory Control, Billing, Reporting, Spreadsheets and monitoring of all administrative processes.
 
 **Aprendiz Área Administrativa** - Ferperez - 2011
-> Emissão de notas fiscais, Atendimento ao cliente.
+> Issuing invoices, Customer Service.
 
-## Formação
+## Formation
 
-**Engenharia da computação - Anhanguera** - Janeiro 2011 - Dezembro 2016 (Andamento)
+**Computer Engeneering - Anhanguera** - January 2011 - Dezember 2016 (In work)
 
-## Cursos
-* Javascript com TDD (Willian Justen, 2016)
-* Formação de Key User (SAP Foundation, 2015)
-* Computação Gráfica (Saga - School of Art, 2014)
-* Pacote Office (Megaworks, 2010)
+## Course
+* Javascript with TDD (Willian Justen, 2016)
+* training in Key User (SAP Foundation, 2015)
+* Computer Graphics (Saga - School of Art, 2014)
+* Pack Office (Megaworks, 2010)
 * Designer e Web Designer (Megaworks, 2010)
-* Informática Aplicada (Megaworks, 2010)
+* Applied Informatics (Megaworks, 2010)
