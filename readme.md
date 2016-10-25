@@ -50,4 +50,4 @@ I'm a student Computer Engineering and a lover of technology. Looking pretty imp
 * Designer e Web Designer (Megaworks, 2010)
 * Applied Informatics (Megaworks, 2010)
 
-![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") [pt-br](readme-ptbr.me)
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") [pt-br](readme-ptbr.md)
