@@ -12,8 +12,8 @@
 
 ## About me
 I'm a student Computer Engineering and a lover of technology. Looking pretty improve my skills and have a best practices, and always seeking to learn new skills.
-## Habilidades
 
+## Skills
 * HTML
 * Responsive Design (Mobile First)
 * CSS (Sass)
@@ -32,10 +32,10 @@ I'm a student Computer Engineering and a lover of technology. Looking pretty imp
 **Trainee Support - HelpDesk** - SIFCO S/A - 2014
 > Service to users, computers Formatting, Installation and maintenance of computers and network.
 
-**Efetivo em Auxiliar Administrativo** - Ferperez - 2012
+**Administrative Assistant** - Ferperez - 2012
 > Issuing invoices, Customer Service, Inventory Control, Billing, Reporting, Spreadsheets and monitoring of all administrative processes.
 
-**Aprendiz Área Administrativa** - Ferperez - 2011
+**Apprentice Administrative Area** - Ferperez - 2011
 > Issuing invoices, Customer Service.
 
 ## Formation
