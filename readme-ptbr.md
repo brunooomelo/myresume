@@ -20,11 +20,11 @@ Sou um estudante de Engenharia da Computação e um amante de tecnologia e afins
 * Responsive Design (Mobile First)
 * CSS (Sass)
 * Css Framework (Bootstrap)
-* Javascript
+* Javascript (ES6)
 * jQuery
-* Automatizadores (Gulp, Npm)
+* Automatizadores (Gulp, Npm, Bower)
 * Git
-* MySQL
+* MySQL, MongoDB
 * PHP
 * Ruby
 * Linux (Ubuntu)
@@ -46,6 +46,7 @@ Sou um estudante de Engenharia da Computação e um amante de tecnologia e afins
 
 ## Cursos
 * Javascript com TDD (Willian Justen, 2016)
+* Desenvolvedor Nodejs e MongoDB (Udemy, 2016)
 * Formação de Key User (SAP Foundation, 2015)
 * Computação Gráfica (Saga - School of Art, 2014)
 * Pacote Office (Megaworks, 2010)
