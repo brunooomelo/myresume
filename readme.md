@@ -17,12 +17,12 @@ I'm a student Computer Engineering and a lover of technology. Looking pretty imp
 * HTML
 * Responsive Design (Mobile First)
 * CSS (Sass)
-* Css Framework (Bootstrap)
-* Javascript
+* CSS Framework (Bootstrap)
+* Javascript (ES6)
 * jQuery
-* Automation (Gulp, Npm)
+* Automation (Gulp, Npm, Bower)
 * Git
-* MySQL
+* MySQL, MongoDB
 * PHP
 * Ruby
 * Linux (Ubuntu)
@@ -44,9 +44,10 @@ I'm a student Computer Engineering and a lover of technology. Looking pretty imp
 
 ## Course
 * Javascript with TDD (Willian Justen, 2016)
-* training in Key User (SAP Foundation, 2015)
+* Developer NodeJS and MongoDB (Udemy, 2016)
+* Training in Key User (SAP Foundation, 2015)
 * Computer Graphics (Saga - School of Art, 2014)
-* Pack Office (Megaworks, 2010)
+* Package Office (Megaworks, 2010)
 * Designer e Web Designer (Megaworks, 2010)
 * Applied Informatics (Megaworks, 2010)
 
