@@ -6,8 +6,6 @@
 
 **Mail:** bruno94@outlook.com
 
-**GitHub:** [brunooomelo](www.github.com/brunooomelo)
-
 **Skype:** jinxbob1337
 
 ## About me
@@ -21,10 +19,9 @@ I'm a student Computer Engineering and a lover of technology. Looking pretty imp
 * Javascript (ES6)
 * jQuery
 * Automation (Gulp, Npm, Bower)
+* TDD (Mocha,Chai)
 * Git
 * MySQL, MongoDB
-* PHP
-* Ruby
 * Linux (Ubuntu)
 
 ## Professional Experience
