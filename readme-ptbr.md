@@ -7,8 +7,6 @@
 
 **E-mail:** bruno94@outlook.com
 
-**GitHub:** [brunooomelo](www.github.com/brunooomelo)
-
 **Skype:** jinxbob1337
 
 ## Sobre mim
@@ -23,10 +21,9 @@ Sou um estudante de Engenharia da Computação e um amante de tecnologia e afins
 * Javascript (ES6)
 * jQuery
 * Automatizadores (Gulp, Npm, Bower)
+* TDD (Mocha, Chai)
 * Git
 * MySQL, MongoDB
-* PHP
-* Ruby
 * Linux (Ubuntu)
 
 ## Experiência Profissional
@@ -42,7 +39,7 @@ Sou um estudante de Engenharia da Computação e um amante de tecnologia e afins
 
 ## Formação
 
-**Engenharia da computação - Anhanguera** - Janeiro 2011 - Dezembro 2016 (Andamento)
+**Engenharia da computação - Anhanguera** - Janeiro 2011 - Dezembro 2016
 
 ## Cursos
 * Javascript com TDD (Willian Justen, 2016)
