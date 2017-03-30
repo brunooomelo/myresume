@@ -37,7 +37,7 @@ I'm a student Computer Engineering and a lover of technology. Looking pretty imp
 
 ## Formation
 
-**Computer Engeneering - Anhanguera** - January 2011 - Dezember 2016 (In work)
+**Computer Engeneering - Anhanguera** - January 2011 - Dezember 2016
 
 ## Course
 * Javascript with TDD (Willian Justen, 2016)
