@@ -17,12 +17,16 @@ I'm a student Computer Engineering and a lover of technology. Looking pretty imp
 * CSS (Sass)
 * CSS Framework (Bootstrap)
 * Javascript (ES6)
-* jQuery
 * Automation (Gulp, Npm, Bower)
 * TDD (Mocha,Chai)
 * Git
 * MySQL, MongoDB
 * Linux (Ubuntu)
+
+## Knowledge
+* jQuery
+* Go lang
+* Python
 
 ## Professional Experience
 
