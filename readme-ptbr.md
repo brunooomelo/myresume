@@ -26,6 +26,11 @@ Sou um estudante de Engenharia da Computação e um amante de tecnologia e afins
 * MySQL, MongoDB
 * Linux (Ubuntu)
 
+## Conhecimento
+* jQuery
+* Go lang
+* Python
+
 ## Experiência Profissional
 
 **Estagiario de Suporte - HelpDesk** - SIFCO S/A - 2014
