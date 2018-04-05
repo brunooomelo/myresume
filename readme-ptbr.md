@@ -19,7 +19,6 @@ Sou um estudante de Engenharia da Computação e um amante de tecnologia e afins
 * CSS (Sass)
 * Css Framework (Bootstrap)
 * Javascript (ES6)
-* jQuery
 * Automatizadores (Gulp, Npm, Bower)
 * TDD (Mocha, Chai)
 * Git
