@@ -14,23 +14,42 @@ Sou um estudante de Engenharia da Computação e um amante de tecnologia e afins
 
 ## Habilidades
 
-* HTML
-* Responsive Design (Mobile First)
-* CSS (Sass)
-* Css Framework (Bootstrap)
-* Javascript (ES6)
-* Automatizadores (Gulp, Npm, Bower)
-* TDD (Mocha, Chai)
-* Git
-* MySQL, MongoDB
-* Linux (Ubuntu)
+* HTML5 / CSS / SCSS
+* React / Redux / Redux SAGA
+* NodeJS (ES6, JS Vanilla, Express)
+* Docker
+* Git Intermediario
+* SQL e NOSQL
+* Linux (Ubuntu), Windows
 
 ## Conhecimento
-* jQuery
-* Go lang
-* Python
+* Go lang (syntax)
+* Python (syntax)
+* TDD (Mocha, Chai, Sinon, Jest)
+
+## Projetos
+
+**[Atendimento CMD](https://github.com/brunooomelo/atendimentocmd)**
+> Foi criado essa CLI no proposito de ajudar a consulta de lojas no sistema. Criado com Inquirer e MySQL.
+
+**[Bibat microservice](https://github.com/brunooomelo/bibat-microservice)**
+> Foi criado com objetivo de guardar os scripts/bats criados para as lojas. Criado com Express, MongoDB e estudando o conceito de Microservices com Docker.
+
+**[Drinkerbeer API](https://github.com/brunooomelo/drinkbeer)**
+> Foi criado essa simples API para estudo React Native. **[Drinkbeer Native](https://github.com/brunooomelo/drinkbeer-native)**
+
+
 
 ## Experiência Profissional
+
+**FullStack Developer - Desenvolvimento** - Top Brands Fashion Grupo - 2018 (2 meses)
+> Trabalhando com React/Redux no front-end e nodejs com Backend(Express).
+
+**Analista de Suporte - HelpDesk** - Top Brands Fashion Grupo - 2018
+> Assistencia ao sistema, Atendimento ao usuário, Formatação de computadores, Instalação e manutenção de computadores e rede.
+
+**FullStack Developer - Temporario** - Uolet - 2017 (2 meses)
+> Trabalhando com Angular no front-end e nodejs com Lambda AWS.
 
 **Estagiario de Suporte - HelpDesk** - SIFCO S/A - 2014
 > Atendimento ao usuário, Formatação de computadores, Instalação e manutenção de computadores e rede.
