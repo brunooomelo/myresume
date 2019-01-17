@@ -29,6 +29,9 @@ Sou um estudante de Engenharia da Computação e um amante de tecnologia e afins
 
 ## Projetos
 
+**[Lottery](https://github.com/brunooomelo/lottery)**
+> Foi criado essa CLI no proposito de ajudar a conferência de apostas. Criado com minimist.
+
 **[Atendimento CMD](https://github.com/brunooomelo/atendimentocmd)**
 > Foi criado essa CLI no proposito de ajudar a consulta de lojas no sistema. Criado com Inquirer e MySQL.
 
