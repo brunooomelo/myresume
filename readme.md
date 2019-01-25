@@ -21,10 +21,13 @@ Sou um estudante de Engenharia da Computação e um amante de tecnologia e afins
 * Git Intermediario
 * SQL e NOSQL
 * Linux (Ubuntu), Windows
+* Inglês Basico
 
 ## Conhecimento
 * Go lang (syntax)
 * Python (syntax)
+* Redis
+* AWS
 * TDD (Mocha, Chai, Sinon, Jest)
 
 ## Projetos
@@ -45,7 +48,7 @@ Sou um estudante de Engenharia da Computação e um amante de tecnologia e afins
 
 ## Experiência Profissional
 
-**FullStack Developer - Desenvolvimento** - Top Brands Fashion Grupo - 2018 (2 meses)
+**FullStack Developer - Desenvolvimento** - Top Brands Fashion Grupo - 2018 (Atual)
 > Trabalhando com React/Redux no front-end e nodejs com Backend(Express).
 
 **Analista de Suporte - HelpDesk** - Top Brands Fashion Grupo - 2018
@@ -65,7 +68,7 @@ Sou um estudante de Engenharia da Computação e um amante de tecnologia e afins
 
 ## Formação
 
-**Engenharia da computação - Anhanguera** - Janeiro 2011 - Dezembro 2016
+**Ciência da Computação - Anchieta** - Dezembro 2019
 
 ## Cursos
 * Javascript com TDD (Willian Justen, 2016)
