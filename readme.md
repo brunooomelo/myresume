@@ -14,8 +14,8 @@ Sou um estudante de Engenharia da Computação e um amante de tecnologia e afins
 
 ## Habilidades
 
-* HTML5 / CSS / SCSS
-* React / Redux / Redux SAGA
+* HTML5 / CSS3 / SCSS
+* React / Redux / Redux SAGA / React-Native
 * NodeJS (ES6, JS Vanilla, Express)
 * Docker
 * Git Intermediario
@@ -24,9 +24,9 @@ Sou um estudante de Engenharia da Computação e um amante de tecnologia e afins
 * Inglês Basico
 
 ## Conhecimento
-* Go lang (syntax)
+* GoLang (syntax)
 * Python (syntax)
-* Redis
+* Redis / Rabbit
 * AWS
 * TDD (Mocha, Chai, Sinon, Jest)
 
