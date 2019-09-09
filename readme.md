@@ -7,26 +7,25 @@
 
 **E-mail:** bruno94@outlook.com
 
-**Skype:** jinxbob1337
-
 ## Sobre mim
-Sou um estudante de Engenharia da Computação e um amante de tecnologia e afins. Como foco busco bastante melhorar minhas habilidades e ter as melhores praticas, e sempre buscando aprender habilidades novas.
+Sou um estudante de Ciência da Computação e um amante de tecnologia e afins. Como foco busco bastante melhorar minhas habilidades e ter as melhores praticas, e sempre buscando aprender habilidades novas.
 
 ## Habilidades
 
-* HTML5 / CSS3 / SCSS
-* React / Redux / Redux SAGA / React-Native
-* NodeJS (ES6, JS Vanilla, Express)
+* HTML5 / CSS3 / SASS
+* React / Redux / Redux SAGA / React Hooks / React-Native
+* NodeJS (ES6, JS Vanilla, Express, AdonisJS)
 * Docker
 * Git Intermediario
 * SQL e NOSQL
-* Linux (Ubuntu), Windows
+* Linux (Ubuntu), Windows 10
 * Inglês Basico
 
 ## Conhecimento
 * GoLang (syntax)
 * Python (syntax)
-* Redis / Rabbit
+* Kubernetes
+* Redis / RabbitMQ
 * AWS
 * TDD (Mocha, Chai, Sinon, Jest)
 
@@ -35,11 +34,11 @@ Sou um estudante de Engenharia da Computação e um amante de tecnologia e afins
 **[Lottery](https://github.com/brunooomelo/lottery)**
 > Foi criado essa CLI no proposito de ajudar a conferência de apostas. Criado com minimist.
 
-**[Atendimento CMD](https://github.com/brunooomelo/atendimentocmd)**
-> Foi criado essa CLI no proposito de ajudar a consulta de lojas no sistema. Criado com Inquirer e MySQL.
-
 **[Bibat microservice](https://github.com/brunooomelo/bibat-microservice)**
 > Foi criado com objetivo de guardar os scripts/bats criados para as lojas. Criado com Express, MongoDB e estudando o conceito de Microservices com Docker.
+
+**[Atendimento CMD](https://github.com/brunooomelo/atendimentocmd)**
+> Foi criado essa CLI no proposito de ajudar a consulta de lojas no sistema. Criado com Inquirer e MySQL.
 
 **[Drinkerbeer API](https://github.com/brunooomelo/drinkbeer)**
 > Foi criado essa simples API para estudo React Native. **[Drinkbeer Native](https://github.com/brunooomelo/drinkbeer-native)**
