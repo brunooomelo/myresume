@@ -8,17 +8,17 @@
 **E-mail:** bruno94@outlook.com
 
 ## Sobre mim
-Sou um estudante de Ciência da Computação e um amante de tecnologia e afins. Como foco busco bastante melhorar minhas habilidades e ter as melhores praticas, e sempre buscando aprender habilidades novas.
+Sou um amante de tecnologia e afins. Como foco busco bastante melhorar minhas habilidades e ter as melhores praticas, e sempre buscando aprender habilidades novas.
 
 ## Habilidades
 
-* HTML5 / CSS3 / SASS
+* HTML5 / CSS3
 * React / Redux / Redux SAGA / React Hooks / React-Native
-* NodeJS (ES6, JS Vanilla, Express, AdonisJS)
+* NodeJS (ES6, JS Vanilla)
 * Docker
 * Git Intermediario
 * SQL e NOSQL
-* Linux (Ubuntu), Windows 10
+* Linux, W10, OSX
 * Inglês Basico
 
 ## Conhecimento
@@ -47,7 +47,10 @@ Sou um estudante de Ciência da Computação e um amante de tecnologia e afins. 
 
 ## Experiência Profissional
 
-**FullStack Developer - Desenvolvimento** - Top Brands Fashion Grupo - 2018 (Atual)
+**BackEnd Developer - Desenvolvimento** - X-Apps - 2020
+> Trabalhando com NodeJS criando API e fazendo integrações com outros serviços.
+
+**FullStack Developer - Desenvolvimento** - Top Brands Fashion Grupo - 2018
 > Trabalhando com React/Redux no front-end e nodejs com Backend(Express).
 
 **Analista de Suporte - HelpDesk** - Top Brands Fashion Grupo - 2018
@@ -55,19 +58,6 @@ Sou um estudante de Ciência da Computação e um amante de tecnologia e afins. 
 
 **FullStack Developer - Temporario** - Uolet - 2017 (2 meses)
 > Trabalhando com Angular no front-end e nodejs com Lambda AWS.
-
-**Estagiario de Suporte - HelpDesk** - SIFCO S/A - 2014
-> Atendimento ao usuário, Formatação de computadores, Instalação e manutenção de computadores e rede.
-
-**Efetivo em Auxiliar Administrativo** - Ferperez - 2012
-> Emissão de notas fiscais, Atendimento ao cliente, Controle de estoque, Cobrança, Elaboração de relatórios, Planilhas e acompanhamento de todos os processos administrativo.
-
-**Aprendiz Área Administrativa** - Ferperez - 2011
-> Emissão de notas fiscais, Atendimento ao cliente.
-
-## Formação
-
-**Ciência da Computação - Anchieta** - Dezembro 2019
 
 ## Cursos
 * Javascript com TDD (Willian Justen, 2016)
