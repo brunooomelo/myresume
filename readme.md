@@ -16,34 +16,30 @@ Sou um amante de tecnologia e afins. Como foco busco bastante melhorar minhas ha
 * React / Redux / Redux SAGA / React Hooks / React-Native
 * NodeJS (ES6, JS Vanilla)
 * Docker
+* Redis / RabbitMQ
 * Git Intermediario
 * SQL e NOSQL
 * Linux, W10, OSX
 * Inglês Basico
 
+
 ## Conhecimento
 * GoLang (syntax)
 * Python (syntax)
 * Kubernetes
-* Redis / RabbitMQ
 * AWS
 * TDD (Mocha, Chai, Sinon, Jest)
 
 ## Projetos
+
+**[Gmov](https://gmov.app)**
+> App com proposito de ajudar a caminhoneiros a conseguirem cargas facilmente. Criado com KoaJS, MongoDB, Integrações com Serviços externos e Filas. 
 
 **[Lottery](https://github.com/brunooomelo/lottery)**
 > Foi criado essa CLI no proposito de ajudar a conferência de apostas. Criado com minimist.
 
 **[Bibat microservice](https://github.com/brunooomelo/bibat-microservice)**
 > Foi criado com objetivo de guardar os scripts/bats criados para as lojas. Criado com Express, MongoDB e estudando o conceito de Microservices com Docker.
-
-**[Atendimento CMD](https://github.com/brunooomelo/atendimentocmd)**
-> Foi criado essa CLI no proposito de ajudar a consulta de lojas no sistema. Criado com Inquirer e MySQL.
-
-**[Drinkerbeer API](https://github.com/brunooomelo/drinkbeer)**
-> Foi criado essa simples API para estudo React Native. **[Drinkbeer Native](https://github.com/brunooomelo/drinkbeer-native)**
-
-
 
 ## Experiência Profissional
 
@@ -63,7 +59,3 @@ Sou um amante de tecnologia e afins. Como foco busco bastante melhorar minhas ha
 * Javascript com TDD (Willian Justen, 2016)
 * Desenvolvedor Nodejs e MongoDB (Udemy, 2016)
 * Formação de Key User (SAP Foundation, 2015)
-* Computação Gráfica (Saga - School of Art, 2014)
-* Pacote Office (Megaworks, 2010)
-* Designer e Web Designer (Megaworks, 2010)
-* Informática Aplicada (Megaworks, 2010)
