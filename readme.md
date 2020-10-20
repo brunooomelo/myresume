@@ -32,7 +32,7 @@ Sou um amante de tecnologia e afins. Como foco busco bastante melhorar minhas ha
 
 ## Projetos
 
-**[Gmov](https://gmov.app)**
+**[GMOV](https://gmov.app)**
 > App com proposito de ajudar a caminhoneiros a conseguirem cargas facilmente. Criado com KoaJS, MongoDB, Integrações com Serviços externos e Filas. 
 
 **[Lottery](https://github.com/brunooomelo/lottery)**
@@ -43,17 +43,17 @@ Sou um amante de tecnologia e afins. Como foco busco bastante melhorar minhas ha
 
 ## Experiência Profissional
 
-**BackEnd Developer - Desenvolvimento** - X-Apps - 2020
+**BackEnd Developer - Desenvolvimento** - G2L Logística - 2020
 > Trabalhando com NodeJS criando API e fazendo integrações com outros serviços.
 
 **FullStack Developer - Desenvolvimento** - Top Brands Fashion Grupo - 2018
-> Trabalhando com React/Redux no front-end e nodejs com Backend(Express).
+> Trabalhando com React/Redux no front-end e NodeJS com Backend(Express).
 
 **Analista de Suporte - HelpDesk** - Top Brands Fashion Grupo - 2018
 > Assistencia ao sistema, Atendimento ao usuário, Formatação de computadores, Instalação e manutenção de computadores e rede.
 
 **FullStack Developer - Temporario** - Uolet - 2017 (2 meses)
-> Trabalhando com Angular no front-end e nodejs com Lambda AWS.
+> Trabalhando com Angular no front-end e NodeJS com Lambda AWS.
 
 ## Cursos
 * Javascript com TDD (Willian Justen, 2016)
