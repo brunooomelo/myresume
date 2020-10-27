@@ -24,8 +24,7 @@ Sou um amante de tecnologia e afins. Como foco busco bastante melhorar minhas ha
 
 
 ## Conhecimento
-* GoLang (syntax)
-* Python (syntax)
+* GoLang - Estudando
 * Kubernetes
 * AWS
 * TDD (Mocha, Chai, Sinon, Jest)
