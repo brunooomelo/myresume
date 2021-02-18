@@ -3,7 +3,7 @@
 
 **Localização:** Jundiaí - Brasil
 
-**Celular:** +55 (11) 99888-1910
+**Celular:** [Whatsapp](https://api.whatsapp.com/send?phone=5511998881910&text=oi)
 
 **E-mail:** bruno94@outlook.com
 
@@ -19,7 +19,6 @@ Sou um amante de tecnologia e afins. Como foco busco bastante melhorar minhas ha
 * Redis / RabbitMQ
 * Git Intermediario
 * SQL e NOSQL
-* Linux, W10, OSX
 * Inglês Basico
 
 
@@ -27,9 +26,12 @@ Sou um amante de tecnologia e afins. Como foco busco bastante melhorar minhas ha
 * GoLang - Estudando
 * Kubernetes
 * AWS
-* TDD (Mocha, Chai, Sinon, Jest)
+* TDD (Mocha, Chai, Sinon, Jest, RTL)
 
 ## Projetos
+
+**[CHEGOU PET](https://play.google.com/store/apps/details?id=com.brunooomelo.chegoupet)**
+> App para petshops. Criado com React Native, Express, MongoDB, Integrações com Serviços externos.
 
 **[GMOV](https://gmov.app)**
 > App com proposito de ajudar a caminhoneiros a conseguirem cargas facilmente. Criado com KoaJS, MongoDB, Integrações com Serviços externos e Filas. 
@@ -41,6 +43,9 @@ Sou um amante de tecnologia e afins. Como foco busco bastante melhorar minhas ha
 > Foi criado com objetivo de guardar os scripts/bats criados para as lojas. Criado com Express, MongoDB e estudando o conceito de Microservices com Docker.
 
 ## Experiência Profissional
+
+**FrontEnd Developer - Desenvolvimento** - Provi - 2021
+> Trabalhando com React desenvolvendo sistemas.
 
 **BackEnd Developer - Desenvolvimento** - G2L Logística - 2020
 > Trabalhando com NodeJS criando API e fazendo integrações com outros serviços.
